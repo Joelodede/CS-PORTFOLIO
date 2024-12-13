@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joel! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">UX Designer</a></h1>, <a href="https://www.youtube.com/c/joshmadakor"> Project Manager</a></h1>
+<h1>Hi, I'm Joel! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">UX Designer</a>, <a href="https://www.youtube.com/c/joshmadakor">Project Manager</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
